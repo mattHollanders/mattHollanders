@@ -1,13 +1,18 @@
-### Olá! Me chamo Mateus Hollanders 👋
+### Olá! Me chamo Mateus Hollanders Braga 👋
 
-Sou um assistente de Informática apaixonado e dedicado pelo que faço.
+Sou profissional de Tecnologia da Informação com experiência em suporte, infraestrutura, automação e desenvolvimento de soluções para análise e visualização de dados.
 
-- 💼 Atualmente Trabalho no Atacadão como Assistente de Informática
-- 🏫 Estudo Engenharia da Computação na Univesp
-- 🎲 Trabalho muito com Planilhas Excel avançadas com Macros e VBA.
-- 🛠️ Atuo no suporte e manutenção de Servidores Linux e Windows. 
-- 💻 Já desenvolvi Web e estou desenvolvendo algumas aplicações voltadas a relatórios e visualização de Dados.
-- 🌱 Estou estudando SQL, AWK e Python para progredir na área
+* 💼 Atualmente trabalho no **Atacadão** como Assistente de Informática
+* 🏫 Estudo **Engenharia da Computação na UNIVESP**
+* 📊 Experiência com **Excel avançado, Power Query, Macros e VBA**
+* 🗄️ Estudando e desenvolvendo projetos com **SQL e bancos de dados**
+* 🐍 Estudando **Python** para análise e tratamento de dados
+* 🖥️ Experiência com **servidores Windows e Linux, redes e suporte à infraestrutura**
+* 💻 Experiência com **desenvolvimento Web e automação de processos**
+* 📈 Desenvolvendo projetos voltados para **análise, tratamento, relatórios e visualização de dados**
+* ⚙️ Experiência com **Shell Script, AWK, PHP, JavaScript e MySQL**
+* 🌱 Atualmente direcionando meus estudos e projetos para a área de **Dados**
 
-- 📫 Email: mateushollandersbraga@gmail.com
-- 📞 Whatsapp: (13) 99672-5531
+📫 **Email:** mateushollandersbraga@gmail.com
+
+🔗 **LinkedIn:** www.linkedin.com/in/matthollanders
